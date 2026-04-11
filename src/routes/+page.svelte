@@ -5,5 +5,5 @@
 <h1>Übung SW 6</h1>
 
 <div style="color:white">
-<TestBox message="msg" bla="hund" name="starioO" ></TestBox>
+<TestBox message="Test Message" bla="Attribut 2" name="Stariosmovielist" ></TestBox>
 </div>
